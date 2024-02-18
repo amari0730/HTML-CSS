@@ -9,7 +9,7 @@
 
 #siteLogo{
   width: 100%;
-  
+  background-color:rgb(228, 147, 179);
 }
 body {
   display: flex;
