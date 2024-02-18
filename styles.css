@@ -44,6 +44,14 @@ h3{
   height: 300px;
 }
 
+.card p {
+  margin: 25px;
+  text-align: center;
+  color: black;
+  font-size: x-large;
+}
+
+
 .card {
 width: 300px;
 background-color:rgb(228, 147, 179);
@@ -51,13 +59,6 @@ border-radius: 35%;
 margin: 25px;
 box-shadow: 10px 5px 5px rgb(199, 126, 126);
 flex-shrink: 0;
-}
-
-.card p {
-  margin: 25px;
-  text-align: center;
-  color: black;
-  font-size: x-large;
 }
 
 
